@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #ece9fd;
+}
+
+ul{
+    list-style: none;
+}
+
+h1{
+    font-family: 'Epilogue', sans-serif;
+}
