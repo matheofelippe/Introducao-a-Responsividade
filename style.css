@@ -3,12 +3,26 @@
     padding: 0;
     box-sizing: border-box;
     background: #ece9fd;
+    font-family: 'Epilogue', sans-serif;
+}
+
+:root{
+    font-size: 62.5%; /* 10px */
+}
+
+body{
+    padding: 6.0rem 2.3rem 6.6rem;
+    font-size: 1.6rem;
+}
+
+h1{
+    font-size: 4.0rem;
 }
 
 ul{
     list-style: none;
 }
 
-h1{
-    font-family: 'Epilogue', sans-serif;
+main p :first-child{
+    color: #7158EF;
 }
